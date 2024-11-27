@@ -95,3 +95,6 @@
 [20:41:57] [Server thread/INFO]: [Capffy: Set own game mode to Creative Mode]
 [20:42:30] [Server thread/INFO]: Capffy issued server command: /gamemode survival
 [20:42:30] [Server thread/INFO]: [Capffy: Set own game mode to Survival Mode]
+[20:52:56] [User Authenticator #2/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[20:53:00] [Server thread/INFO]: mazdacx30 joined the game
+[20:53:00] [Server thread/INFO]: mazdacx30[/127.92.163.29:45899] logged in with entity id 11550 at ([world]79.30000001192093, 92.0, 161.47899663752503)
