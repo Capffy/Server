@@ -66,3 +66,7 @@
 [21:35:59] [Server thread/INFO]: Done preparing level "world" (5.200s)
 [21:35:59] [Server thread/INFO]: Running delayed init tasks
 [21:35:59] [Server thread/INFO]: Done (23.970s)! For help, type "help"
+[21:48:18] [User Authenticator #0/INFO]: UUID of player Capffy is 7c381fc7-a992-3920-af7a-b250755cfcc9
+[21:48:21] [Server thread/INFO]: Capffy joined the game
+[21:48:21] [Server thread/INFO]: Capffy[/127.38.191.191:52433] logged in with entity id 39 at ([world]87.2400647524721, 94.0, 156.04971007330045)
+[21:48:23] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0cfb8606-0a28-466c-96ab-75a22f12f197, mapped to Villager['Villager'/17, uuid='0cfb8606-0a28-466c-96ab-75a22f12f197', l='ServerLevel[world]', x=28.50, y=138.56, z=73.69, cpos=[1, 4], tl=225843, v=true], can't add Villager['Villager'/186, uuid='0cfb8606-0a28-466c-96ab-75a22f12f197', l='ServerLevel[world]', x=24.50, y=134.94, z=80.90, cpos=[1, 5], tl=226763, v=false]
