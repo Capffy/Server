@@ -91,3 +91,7 @@
 [19:50:49] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
 [20:13:10] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
 [20:13:10] [Server thread/INFO]: mazdacx30 left the game
+[20:41:57] [Server thread/INFO]: Capffy issued server command: /gamemode creative
+[20:41:57] [Server thread/INFO]: [Capffy: Set own game mode to Creative Mode]
+[20:42:30] [Server thread/INFO]: Capffy issued server command: /gamemode survival
+[20:42:30] [Server thread/INFO]: [Capffy: Set own game mode to Survival Mode]
