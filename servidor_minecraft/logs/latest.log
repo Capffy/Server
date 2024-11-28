@@ -69,3 +69,4 @@
 [01:43:48] [Server thread/INFO]: Capffy joined the game
 [01:43:48] [Server thread/INFO]: Capffy[/127.38.191.191:47293] logged in with entity id 36 at ([world]209.39195493615452, 93.5625, 1439.602719958875)
 [01:43:48] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: e2bff4ab-8a0a-44ae-99c8-809efcb58aa6, mapped to Bat['Bat'/56, uuid='e2bff4ab-8a0a-44ae-99c8-809efcb58aa6', l='ServerLevel[world]', x=204.15, y=-11.08, z=1455.29, cpos=[12, 90], tl=855, v=true], can't add Bat['Bat'/75, uuid='e2bff4ab-8a0a-44ae-99c8-809efcb58aa6', l='ServerLevel[world]', x=201.69, y=-11.00, z=1458.70, cpos=[12, 91], tl=868, v=false]
+[02:08:44] [Server thread/INFO]: Capffy has made the advancement [Best Friends Forever]
