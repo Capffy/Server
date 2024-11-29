@@ -300,3 +300,5 @@
 [22:34:42] [User Authenticator #1/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
 [22:34:47] [Server thread/INFO]: mazdacx30 joined the game
 [22:34:47] [Server thread/INFO]: mazdacx30[/127.92.163.29:39521] logged in with entity id 18557 at ([world]80.69999998807907, 88.0, 169.35290179326012)
+[22:48:30] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30
+[22:48:30] [Server thread/INFO]: [Capffy: Teleported Capffy to mazdacx30]
