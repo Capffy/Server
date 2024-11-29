@@ -72,3 +72,6 @@
 [20:08:58] [Server thread/INFO]: mazdacx30 joined the game
 [20:08:58] [Server thread/INFO]: mazdacx30[/127.92.163.29:43273] logged in with entity id 38 at ([world]76.69410377058037, 88.0, 162.8516606582851)
 [20:08:59] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 981921ef-447d-4f4f-ab49-37fc58be8213, mapped to Bee['Bee'/214, uuid='981921ef-447d-4f4f-ab49-37fc58be8213', l='ServerLevel[world]', x=154.15, y=119.17, z=280.44, cpos=[9, 17], tl=74095, v=true], can't add Bee['Bee'/229, uuid='981921ef-447d-4f4f-ab49-37fc58be8213', l='ServerLevel[world]', x=151.68, y=117.60, z=289.47, cpos=[9, 18], tl=74520, v=false]
+[20:11:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Capffy> sebastian y los cultivos
+[20:11:16] [Async Chat Thread - #1/INFO]: [Not Secure] <mazdacx30> ...
+[20:12:16] [Async Chat Thread - #2/INFO]: [Not Secure] <mazdacx30> los cultivos...
