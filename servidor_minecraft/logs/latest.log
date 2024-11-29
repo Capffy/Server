@@ -64,3 +64,11 @@
 [19:49:19] [Server thread/INFO]: Done preparing level "world" (4.683s)
 [19:49:19] [Server thread/INFO]: Running delayed init tasks
 [19:49:19] [Server thread/INFO]: Done (22.447s)! For help, type "help"
+[20:08:53] [User Authenticator #0/INFO]: UUID of player Capffy is 7c381fc7-a992-3920-af7a-b250755cfcc9
+[20:08:54] [User Authenticator #0/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[20:08:56] [Server thread/INFO]: Capffy joined the game
+[20:08:56] [Server thread/INFO]: Capffy[/127.38.191.191:33993] logged in with entity id 37 at ([world]108.28351988729821, 94.0, 150.15948483079015)
+[20:08:57] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 92ce7c50-5b32-4aac-8dbe-9b31f32ac004, mapped to Bat['Bat'/71, uuid='92ce7c50-5b32-4aac-8dbe-9b31f32ac004', l='ServerLevel[world]', x=38.45, y=5.16, z=159.08, cpos=[2, 9], tl=1935, v=true], can't add Bat['Bat'/79, uuid='92ce7c50-5b32-4aac-8dbe-9b31f32ac004', l='ServerLevel[world]', x=38.04, y=3.92, z=164.91, cpos=[2, 10], tl=1901, v=false]
+[20:08:58] [Server thread/INFO]: mazdacx30 joined the game
+[20:08:58] [Server thread/INFO]: mazdacx30[/127.92.163.29:43273] logged in with entity id 38 at ([world]76.69410377058037, 88.0, 162.8516606582851)
+[20:08:59] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 981921ef-447d-4f4f-ab49-37fc58be8213, mapped to Bee['Bee'/214, uuid='981921ef-447d-4f4f-ab49-37fc58be8213', l='ServerLevel[world]', x=154.15, y=119.17, z=280.44, cpos=[9, 17], tl=74095, v=true], can't add Bee['Bee'/229, uuid='981921ef-447d-4f4f-ab49-37fc58be8213', l='ServerLevel[world]', x=151.68, y=117.60, z=289.47, cpos=[9, 18], tl=74520, v=false]
