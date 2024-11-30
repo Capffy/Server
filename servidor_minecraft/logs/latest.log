@@ -81,3 +81,10 @@
 [22:25:03] [User Authenticator #2/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
 [22:25:07] [Server thread/INFO]: mazdacx30 joined the game
 [22:25:07] [Server thread/INFO]: mazdacx30[/127.92.163.29:56183] logged in with entity id 8639 at ([world]77.75782447796927, 88.0, 161.283352050157)
+[22:32:55] [Server thread/WARN]: mazdacx30 moved too quickly! -12.499984272950485,-1.252203340253724,18.357165612042436
+[22:34:18] [Server thread/INFO]: mazdacx30 was slain by Zombie
+[22:34:29] [Server thread/INFO]: mazdacx30 lost connection: Timed out
+[22:34:29] [Server thread/INFO]: mazdacx30 left the game
+[22:34:51] [User Authenticator #3/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[22:34:53] [Server thread/INFO]: mazdacx30 joined the game
+[22:34:53] [Server thread/INFO]: mazdacx30[/127.92.163.29:57473] logged in with entity id 10021 at ([world]205.20290582825174, -16.0, 14.436263139559149)
