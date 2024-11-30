@@ -107,3 +107,14 @@
 [02:47:34] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.1614793814439395
 [02:47:34] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.7093021876898717
 [02:47:34] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 3.260943724967774
+[02:50:00] [Server thread/INFO]: Capffy has made the advancement [We Need to Go Deeper]
+[02:51:38] [Server thread/INFO]: mazdacx30 fell from a high place
+[02:52:11] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30
+[02:52:11] [Server thread/INFO]: [Capffy: Teleported Capffy to mazdacx30]
+[02:52:46] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[02:52:46] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[02:56:51] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30
+[02:56:51] [Server thread/INFO]: [Capffy: Teleported Capffy to mazdacx30]
+[02:57:57] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 c
+[02:58:08] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[02:58:08] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
