@@ -118,3 +118,12 @@
 [02:57:57] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 c
 [02:58:08] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
 [02:58:08] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[03:00:57] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[03:00:57] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[03:01:52] [Server thread/WARN]: mazdacx30 moved too quickly! 3.446771876697767,2.9986640208878583,-15.815833855896557
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.365437503031103
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.8094225418623182
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.271917402020165
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.7443372931664953
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.222067870510955
+[03:05:48] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.7026400901564216
