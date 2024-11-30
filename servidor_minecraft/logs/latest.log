@@ -82,3 +82,10 @@
 [02:15:19] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
 [02:16:02] [Server thread/INFO]: mazdacx30 was slain by Zombie
 [02:26:30] [Server thread/WARN]: Horse (vehicle of Capffy) moved wrongly! 0.25972894903019517
+[02:32:06] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
+[02:32:06] [Server thread/INFO]: mazdacx30 left the game
+[02:33:41] [User Authenticator #2/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[02:33:45] [Server thread/INFO]: mazdacx30 joined the game
+[02:33:45] [Server thread/INFO]: mazdacx30[/127.92.163.29:55787] logged in with entity id 3788 at ([world]67.04371218772813, 94.0, 164.9058856894167)
+[02:34:49] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[02:34:49] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
