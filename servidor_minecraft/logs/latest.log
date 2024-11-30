@@ -82,3 +82,8 @@
 [19:34:09] [User Authenticator #1/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
 [19:34:14] [Server thread/INFO]: mazdacx30 joined the game
 [19:34:14] [Server thread/INFO]: mazdacx30[/127.92.163.29:58389] logged in with entity id 8230 at ([world]83.69999998807907, 88.0, 171.69999998807907)
+[19:36:14] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
+[19:36:14] [Server thread/INFO]: mazdacx30 left the game
+[19:37:29] [User Authenticator #2/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[19:37:32] [Server thread/INFO]: mazdacx30 joined the game
+[19:37:32] [Server thread/INFO]: mazdacx30[/127.92.163.29:50487] logged in with entity id 8481 at ([world]83.69999998807907, 88.0, 171.69999998807907)
