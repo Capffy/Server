@@ -73,3 +73,6 @@
 [20:56:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7b3a5963-b736-4e53-ac23-abeb982a4ee9, mapped to Goat['Goat'/380, uuid='7b3a5963-b736-4e53-ac23-abeb982a4ee9', l='ServerLevel[world]', x=-96.52, y=184.00, z=221.26, cpos=[-7, 13], tl=88821, v=true], can't add Goat['Goat'/381, uuid='7b3a5963-b736-4e53-ac23-abeb982a4ee9', l='ServerLevel[world]', x=-96.54, y=185.00, z=227.54, cpos=[-7, 14], tl=88677, v=false]
 [21:07:33] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
 [21:07:33] [Server thread/INFO]: mazdacx30 left the game
+[21:16:26] [User Authenticator #1/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[21:16:29] [Server thread/INFO]: mazdacx30 joined the game
+[21:16:29] [Server thread/INFO]: mazdacx30[/127.92.163.29:41885] logged in with entity id 1661 at ([world]70.30000001192093, 78.0, 154.30000001192093)
