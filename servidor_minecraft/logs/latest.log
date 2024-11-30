@@ -97,3 +97,18 @@ holahola<--[HERE]
 [23:15:36] [User Authenticator #4/INFO]: UUID of player tomatoyde is d5d90bd9-fae8-3cb4-a849-6153bdd81f67
 [23:15:37] [Server thread/INFO]: tomatoyde joined the game
 [23:15:37] [Server thread/INFO]: tomatoyde[/127.123.203.29:36825] logged in with entity id 15727 at ([world]-23.5, 124.0, 10.5)
+[23:17:13] [Async Chat Thread - #0/INFO]: [Not Secure] <tomatoyde> sebastian soy johan
+[23:17:59] [Server thread/INFO]: tomatoyde has made the advancement [Stone Age]
+[23:18:22] [Server thread/INFO]: tomatoyde has made the advancement [Getting an Upgrade]
+[23:21:15] [User Authenticator #5/INFO]: UUID of player Capffy is 7c381fc7-a992-3920-af7a-b250755cfcc9
+[23:21:18] [Server thread/INFO]: Capffy joined the game
+[23:21:18] [Server thread/INFO]: Capffy[/127.38.191.191:37813] logged in with entity id 17211 at ([world]72.8766279992389, 88.0, 158.37411751187432)
+[23:22:05] [Server thread/INFO]: tomatoyde issued server command: /skin random
+[23:22:19] [Server thread/INFO]: tomatoyde issued server command: /skin random
+[23:22:38] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
+[23:22:38] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
+[23:24:56] [Server thread/INFO]: tomatoyde has made the advancement [Acquire Hardware]
+[23:25:12] [Server thread/INFO]: tomatoyde has made the advancement [We Need to Go Deeper]
+[23:25:33] [Server thread/INFO]: tomatoyde has made the advancement [Monster Hunter]
+[23:25:57] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
+[23:25:57] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
