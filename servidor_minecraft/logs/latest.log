@@ -1,150 +1,31 @@
-[20:54:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[20:54:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[20:54:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[20:54:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[20:54:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.4.4)
-[20:55:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:55:05] [ServerMain/INFO]: Loaded 1337 recipes
-[20:55:05] [ServerMain/INFO]: Loaded 1448 advancements
-[20:55:05] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[20:55:05] [Server thread/INFO]: Loading properties
-[20:55:05] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[20:55:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[20:55:06] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:55:06] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:55:08] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[20:55:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[20:55:08] [Server thread/INFO]: Default game type: SURVIVAL
-[20:55:08] [Server thread/INFO]: Generating keypair
-[20:55:08] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:55:08] [Server thread/INFO]: Using epoll channel type
-[20:55:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:55:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:55:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[20:55:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:55:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[20:55:10] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[20:55:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[20:55:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:55:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:55:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:55:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:55:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:55:11] [Server thread/INFO]: Preparing level "world"
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:55:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:55:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:55:12] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:12] [Server thread/INFO]: Preparing spawn area: 2%
-[20:55:13] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[20:55:13] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 578.3ms
-[20:55:13] [Server thread/INFO]: Preparing spawn area: 2%
-[20:55:13] [Server thread/INFO]: Preparing spawn area: 2%
-[20:55:14] [Server thread/INFO]: Preparing spawn area: 6%
-[20:55:14] [Server thread/INFO]: Preparing spawn area: 8%
-[20:55:14] [Server thread/INFO]: Time elapsed: 2513 ms
-[20:55:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:55:14] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:15] [Server thread/INFO]: Preparing spawn area: 51%
-[20:55:15] [Server thread/INFO]: Time elapsed: 555 ms
-[20:55:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:55:15] [Server thread/INFO]: Preparing spawn area: 0%
-[20:55:15] [Server thread/INFO]: Time elapsed: 244 ms
-[20:55:15] [Server thread/INFO]: [spark] Starting background profiler...
-[20:55:16] [Server thread/INFO]: Done preparing level "world" (4.917s)
-[20:55:16] [Server thread/INFO]: Running delayed init tasks
-[20:55:16] [Server thread/INFO]: Done (22.411s)! For help, type "help"
-[20:56:25] [User Authenticator #0/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
-[20:56:30] [Server thread/INFO]: mazdacx30 joined the game
-[20:56:30] [Server thread/INFO]: mazdacx30[/127.92.163.29:54671] logged in with entity id 93 at ([world]109.44331506893363, 92.0, 158.99086659057116)
-[20:56:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 70a639ae-1cdc-4719-9217-0df9e3d64261, mapped to Bat['Bat'/114, uuid='70a639ae-1cdc-4719-9217-0df9e3d64261', l='ServerLevel[world]', x=95.49, y=7.02, z=128.54, cpos=[5, 8], tl=2033, v=true], can't add Bat['Bat'/119, uuid='70a639ae-1cdc-4719-9217-0df9e3d64261', l='ServerLevel[world]', x=101.02, y=7.38, z=119.34, cpos=[6, 7], tl=2070, v=false]
-[20:56:46] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 7b3a5963-b736-4e53-ac23-abeb982a4ee9, mapped to Goat['Goat'/380, uuid='7b3a5963-b736-4e53-ac23-abeb982a4ee9', l='ServerLevel[world]', x=-96.52, y=184.00, z=221.26, cpos=[-7, 13], tl=88821, v=true], can't add Goat['Goat'/381, uuid='7b3a5963-b736-4e53-ac23-abeb982a4ee9', l='ServerLevel[world]', x=-96.54, y=185.00, z=227.54, cpos=[-7, 14], tl=88677, v=false]
-[21:07:33] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
-[21:07:33] [Server thread/INFO]: mazdacx30 left the game
-[21:16:26] [User Authenticator #1/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
-[21:16:29] [Server thread/INFO]: mazdacx30 joined the game
-[21:16:29] [Server thread/INFO]: mazdacx30[/127.92.163.29:41885] logged in with entity id 1661 at ([world]70.30000001192093, 78.0, 154.30000001192093)
-[22:10:34] [Server thread/INFO]: mazdacx30 lost connection: Disconnected
-[22:10:34] [Server thread/INFO]: mazdacx30 left the game
-[22:25:03] [User Authenticator #2/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
-[22:25:07] [Server thread/INFO]: mazdacx30 joined the game
-[22:25:07] [Server thread/INFO]: mazdacx30[/127.92.163.29:56183] logged in with entity id 8639 at ([world]77.75782447796927, 88.0, 161.283352050157)
-[22:32:55] [Server thread/WARN]: mazdacx30 moved too quickly! -12.499984272950485,-1.252203340253724,18.357165612042436
-[22:34:18] [Server thread/INFO]: mazdacx30 was slain by Zombie
-[22:34:29] [Server thread/INFO]: mazdacx30 lost connection: Timed out
-[22:34:29] [Server thread/INFO]: mazdacx30 left the game
-[22:34:51] [User Authenticator #3/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
-[22:34:53] [Server thread/INFO]: mazdacx30 joined the game
-[22:34:53] [Server thread/INFO]: mazdacx30[/127.92.163.29:57473] logged in with entity id 10021 at ([world]205.20290582825174, -16.0, 14.436263139559149)
-[22:53:45] [Server thread/INFO]: mazdacx30 was slain by Zombie
-[22:56:02] [Server thread/INFO]: mazdacx30 was slain by Zombie
-[22:56:29] [Server thread/INFO]: Unknown or incomplete command, see below for error
-holahola<--[HERE]
-[22:57:47] [Server thread/WARN]: mazdacx30 moved too quickly! -2.8111029847514146,-0.7531999805212024,16.662351939797254
-[23:06:15] [Server thread/INFO]: mazdacx30 has made the advancement [Hot Stuff]
-[23:15:36] [User Authenticator #4/INFO]: UUID of player tomatoyde is d5d90bd9-fae8-3cb4-a849-6153bdd81f67
-[23:15:37] [Server thread/INFO]: tomatoyde joined the game
-[23:15:37] [Server thread/INFO]: tomatoyde[/127.123.203.29:36825] logged in with entity id 15727 at ([world]-23.5, 124.0, 10.5)
-[23:17:13] [Async Chat Thread - #0/INFO]: [Not Secure] <tomatoyde> sebastian soy johan
-[23:17:59] [Server thread/INFO]: tomatoyde has made the advancement [Stone Age]
-[23:18:22] [Server thread/INFO]: tomatoyde has made the advancement [Getting an Upgrade]
-[23:21:15] [User Authenticator #5/INFO]: UUID of player Capffy is 7c381fc7-a992-3920-af7a-b250755cfcc9
-[23:21:18] [Server thread/INFO]: Capffy joined the game
-[23:21:18] [Server thread/INFO]: Capffy[/127.38.191.191:37813] logged in with entity id 17211 at ([world]72.8766279992389, 88.0, 158.37411751187432)
-[23:22:05] [Server thread/INFO]: tomatoyde issued server command: /skin random
-[23:22:19] [Server thread/INFO]: tomatoyde issued server command: /skin random
-[23:22:38] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:22:38] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:24:56] [Server thread/INFO]: tomatoyde has made the advancement [Acquire Hardware]
-[23:25:12] [Server thread/INFO]: tomatoyde has made the advancement [We Need to Go Deeper]
-[23:25:33] [Server thread/INFO]: tomatoyde has made the advancement [Monster Hunter]
-[23:25:57] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:25:57] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:26:55] [Server thread/INFO]: tomatoyde was slain by Zombified Piglin
-[23:28:12] [Server thread/INFO]: tomatoyde was shot by Skeleton
-[23:29:46] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:29:46] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:30:11] [Server thread/INFO]: tomatoyde was slain by Spider
-[23:30:27] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:30:27] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:30:43] [Server thread/INFO]: tomatoyde has made the advancement [Sweet Dreams]
-[23:31:40] [Server thread/INFO]: tomatoyde was slain by mazdacx30
-[23:32:57] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:32:57] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:41:38] [Server thread/INFO]: tomatoyde was slain by mazdacx30
-[23:43:21] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:43:21] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:43:21] [Server thread/INFO]: tomatoyde has made the advancement [Suit Up]
-[23:50:44] [Server thread/INFO]: tomatoyde was slain by mazdacx30
-[23:54:00] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:54:00] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
-[23:54:30] [Server thread/INFO]: tomatoyde has made the advancement [Isn't It Iron Pick]
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.395263667533996
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.8598791817891538
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.3360897106095422
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.8177552336474463
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.0
-[23:55:15] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.0
-[23:55:16] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.0
-[23:55:16] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.27626415591964815
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.7422768851432551
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.2183890276347284
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.698805697371327
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.179554368637369
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 2.6594268976095776
-[23:55:17] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 3.10932581127436
-[23:55:17] [Server thread/INFO]: tomatoyde was slain by Capffy
-[23:55:23] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
-[23:55:23] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
+[00:04:01] [Server thread/INFO]: tomatoyde has made the advancement [Not Today, Thank You]
+[00:05:16] [Server thread/INFO]: tomatoyde has made the advancement [Diamonds!]
+[00:08:26] [Server thread/INFO]: tomatoyde has made the advancement [Hot Stuff]
+[00:09:01] [Server thread/INFO]: Capffy issued server command: /kill mazdacx30
+[00:09:01] [Server thread/INFO]: mazdacx30 was killed
+[00:09:01] [Server thread/INFO]: [Capffy: Killed mazdacx30]
+[00:09:47] [Server thread/INFO]: Capffy issued server command: /kill mazdacx30
+[00:09:47] [Server thread/INFO]: mazdacx30 was killed
+[00:09:47] [Server thread/INFO]: [Capffy: Killed mazdacx30]
+[00:10:01] [Server thread/INFO]: Capffy issued server command: /gamemode creative
+[00:10:01] [Server thread/INFO]: [Capffy: Set own game mode to Creative Mode]
+[00:10:54] [Server thread/INFO]: Capffy issued server command: /kill mazdacx30
+[00:10:54] [Server thread/INFO]: mazdacx30 was killed while fighting Capffy
+[00:10:54] [Server thread/INFO]: [Capffy: Killed mazdacx30]
+[00:12:00] [Server thread/INFO]: Capffy issued server command: /kill mazdacx30
+[00:12:00] [Server thread/INFO]: mazdacx30 was killed
+[00:12:00] [Server thread/INFO]: [Capffy: Killed mazdacx30]
+[00:12:59] [Server thread/INFO]: mazdacx30 was slain by Capffy
+[00:13:34] [Async Chat Thread - #3/INFO]: [Not Secure] <tomatoyde> otro spawer
+[00:13:50] [Server thread/INFO]: Capffy issued server command: /kick mazdacx30
+[00:13:50] [Server thread/INFO]: mazdacx30 lost connection: Kicked by an operator
+[00:13:50] [Server thread/INFO]: mazdacx30 left the game
+[00:13:50] [Server thread/INFO]: [Capffy: Kicked mazdacx30: Kicked by an operator]
+[00:14:45] [Async Chat Thread - #4/INFO]: [Not Secure] <tomatoyde> samuel me hace tp
+[00:14:53] [Server thread/INFO]: Capffy issued server command: /tp tomatoyde Capffy
+[00:14:53] [Server thread/INFO]: [Capffy: Teleported tomatoyde to Capffy]
+[00:15:42] [Async Chat Thread - #5/INFO]: [Not Secure] <Capffy> metase a la llamada
+[00:15:57] [Async Chat Thread - #5/INFO]: [Not Secure] <tomatoyde> espere ya me meto otravez
+[00:16:00] [Async Chat Thread - #5/INFO]: [Not Secure] <Capffy> bueno
+[00:16:07] [Server thread/INFO]: tomatoyde lost connection: Disconnected
+[00:16:07] [Server thread/INFO]: tomatoyde left the game
