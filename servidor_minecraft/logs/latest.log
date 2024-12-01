@@ -44,3 +44,25 @@
 [00:43:00] [Server thread/INFO]: mazdacx30[/127.92.163.29:53601] logged in with entity id 32042 at ([world]75.7512644154019, 94.0, 146.20126074944497)
 [00:43:21] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
 [00:43:21] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[00:50:05] [Server thread/INFO]: mazdacx30 lost connection: Timed out
+[00:50:05] [Server thread/INFO]: mazdacx30 left the game
+[00:50:19] [User Authenticator #8/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[00:50:20] [Server thread/INFO]: mazdacx30 joined the game
+[00:50:20] [Server thread/INFO]: mazdacx30[/127.92.163.29:35927] logged in with entity id 33158 at ([world]202.36089333004998, -7.580000013113022, -39.39482874515087)
+[00:50:38] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[00:50:38] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[00:51:10] [Server thread/INFO]: mazdacx30 has made the advancement [A Seedy Place]
+[00:52:12] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[00:52:12] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[00:55:09] [Server thread/INFO]: Capffy issued server command: /tp mazdacx30 Capffy
+[00:55:09] [Server thread/INFO]: [Capffy: Teleported mazdacx30 to Capffy]
+[00:55:10] [Server thread/INFO]: mazdacx30 fell from a high place
+[00:55:30] [Server thread/INFO]: mazdacx30 was slain by Capffy
+[00:55:43] [Server thread/INFO]: mazdacx30 was slain by Capffy
+[00:55:56] [Server thread/INFO]: mazdacx30 was slain by Capffy
+[00:56:10] [Server thread/INFO]: mazdacx30 was slain by Capffy
+[00:56:19] [Server thread/INFO]: mazdacx30 fell from a high place
+[00:56:26] [Server thread/INFO]: mazdacx30 fell from a high place
+[00:58:04] [Server thread/INFO]: Capffy issued server command: /kill mazdacx30
+[00:58:04] [Server thread/INFO]: mazdacx30 was killed
+[00:58:04] [Server thread/INFO]: [Capffy: Killed mazdacx30]
