@@ -84,3 +84,38 @@
 [19:26:53] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 0.9520359683015158
 [19:26:53] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.073763689389125
 [19:26:53] [Server thread/WARN]: Horse (vehicle of mazdacx30) moved wrongly! 1.1388977659541695
+[19:39:11] [Server thread/INFO]: Stopping server
+[19:39:11] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[19:39:11] [Server thread/INFO]: Saving players
+[19:39:11] [Server thread/INFO]: mazdacx30 lost connection: Server closed
+[19:39:12] [Server thread/INFO]: mazdacx30 left the game
+[19:39:12] [Server thread/INFO]: Saving worlds
+[19:39:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:39:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[19:39:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[19:39:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[19:39:18] [Server thread/INFO]: [ChunkHolderManager] Saved 104 block chunks, 375 entity chunks, 0 poi chunks in world 'world' in 5.47s
+[19:39:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[19:39:18] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[19:39:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 25 entity chunks, 0 poi chunks in world 'world_nether' in 0.31s
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[19:39:19] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[19:39:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.44s
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[19:39:20] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[19:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:39:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:39:21] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[19:39:21] [Server thread/INFO]: All I/O tasks to complete
+[19:39:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[19:39:21] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
