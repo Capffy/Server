@@ -70,3 +70,7 @@
 [02:07:19] [Server thread/INFO]: Done preparing level "world" (7.902s)
 [02:07:19] [Server thread/INFO]: Running delayed init tasks
 [02:07:19] [Server thread/INFO]: Done (37.936s)! For help, type "help"
+[02:31:57] [User Authenticator #0/INFO]: UUID of player mazdacx30 is 0ab15766-64e5-3ca5-bb91-cae8bc9a3631
+[02:32:01] [Server thread/INFO]: mazdacx30 joined the game
+[02:32:01] [Server thread/INFO]: mazdacx30[/127.92.163.29:32893] logged in with entity id 87 at ([world]114.82747566896815, 119.25220334025373, 161.60233801394335)
+[02:32:13] [Server thread/INFO]: mazdacx30 fell from a high place
